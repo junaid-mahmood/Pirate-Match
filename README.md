@@ -1,6 +1,6 @@
-# PirateSeas Memory Game
+# Pirate Match Memory Game
 
-PirateSeas is a fun and challenging memory game developed for Hack Club's High Seas challenge. Players must match pairs of cards in a limited time, testing their memory and quick thinking.
+Pirate Match is a fun and challenging memory game developed for Hack Club's High Seas challenge. Players must match pairs of cards in a limited time, testing their memory and quick thinking.
 
 ## Features
 
