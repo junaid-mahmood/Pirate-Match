@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Exclude the .gitignore file itself (so it's not ignored)
+!.gitignore
+
+# Allow everything directly within hackc but no subdirectories
+!/*
