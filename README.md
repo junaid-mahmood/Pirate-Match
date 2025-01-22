@@ -24,3 +24,5 @@ Pirate Match is a fun and challenging memory game developed for Hack Club's High
     npm install
     node server.js
 ```
+
+* AI was used in parts of this project
